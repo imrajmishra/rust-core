@@ -1,34 +1,48 @@
-# Hello Rust 🦀
+# Rust Core 🦀
 
-My first project in Rust.
+A structured repository documenting my journey of learning Rust through examples, exercises, and projects.
 
-This project was created as part of my journey to learn the Rust programming language. It covers the basics of setting up a Rust project, compiling code, and running a simple program using Cargo.
+## Repository Structure
 
-## What I Learned
-
-* Installing Rust and Cargo
-* Creating a new Rust project
-* Understanding the project structure
-* Writing and running a basic Rust program
-* Using Cargo for building and managing dependencies
-* Version control with Git and GitHub
-
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/imrajmishra/rust-core.git
-cd hello_rust
+```text
+rust-core/
+├── 01_Rust_Intro/
+├── 02_DataTypes/
+├── 03_Control_Flow/
+├── 04_Ownership/
+├── 05_Error_Handling/
+├── 06_Module/
+├── 07_Generic_type_&_Traits/
+├── 08_Async_&_Await/
+├── 09_Applications/
+├── .gitignore
+└── README.md
 ```
 
-Run the project:
+## Progress
+
+### Fundamentals
+
+* [x] Rust Introduction
+* [x] Data Types
+* [x] Control Flow
+* [ ] Ownership
+* [ ] Error Handling
+* [ ] Modules
+* [ ] Generics
+* [ ] Traits
+* [ ] Async & Await
+* [ ] Applications
+
+## Running Examples
+
+Navigate to a lesson directory and run:
 
 ```bash
 cargo run
 ```
 
-Build the project:
+Build a project:
 
 ```bash
 cargo build
@@ -36,8 +50,9 @@ cargo build
 
 ## Goal
 
-This repository marks the beginning of my Rust learning journey. I plan to add more examples and projects as I explore Rust concepts such as ownership, borrowing, structs, enums, error handling, and concurrency.
+The goal of this repository is to learn Rust from fundamentals to advanced concepts through hands-on examples and projects.
 
----
+## Author
 
-Author: Raj Mishra
+**Raj Mishra**
+BCA Student | Rust Learner
