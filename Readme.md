@@ -15,22 +15,24 @@ rust-core/
 ├── 07_Generic_type_&_Traits/
 ├── 08_Async_&_Await/
 ├── 09_Applications/
+├── .gitignore
 └── README.md
+```
 
 ## Progress
 
 ### Fundamentals
 
-- [x] Rust Introduction
-- [x] Data Types
-- [x] Control Flow
-- [ ] Ownership
-- [ ] Error Handling
-- [ ] Modules
-- [ ] Generics
-- [ ] Traits
-- [ ] Async & Await
-- [ ] Applications
+* [x] Rust Introduction
+* [x] Data Types
+* [x] Control Flow
+* [ ] Ownership
+* [ ] Error Handling
+* [ ] Modules
+* [ ] Generics
+* [ ] Traits
+* [ ] Async & Await
+* [ ] Applications
 
 ## Running Examples
 
@@ -52,5 +54,5 @@ The goal of this repository is to learn Rust from fundamentals to advanced conce
 
 ## Author
 
-Raj Mishra
+**Raj Mishra**
 BCA Student | Rust Learner
