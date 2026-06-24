@@ -1,1 +1,1 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
+error: manifest path `/Users/rajmishra/Desktop/hello_rust/Cargo.toml` does not exist
