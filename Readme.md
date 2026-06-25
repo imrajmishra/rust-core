@@ -24,8 +24,8 @@ rust-core/
 ### Fundamentals
 
 * [x] Rust Introduction
-* [x] Data Types
-* [x] Control Flow
+* [ ] Data Types
+* [ ] Control Flow
 * [ ] Ownership
 * [ ] Error Handling
 * [ ] Modules
