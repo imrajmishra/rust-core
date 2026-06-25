@@ -50,7 +50,28 @@ cargo build
 
 ## Goal
 
-The goal of this repository is to learn Rust from fundamentals to advanced concepts through hands-on examples and projects.
+The primary goal of this repository is to learn and master Rust programming, progressing from fundamental concepts to advanced topics through hands-on examples, practical exercises, and real-world projects.
+
+This repository serves as a structured learning journey covering:
+
+* Rust syntax and core concepts
+* Ownership, borrowing, and lifetimes
+* Structs, enums, and pattern matching
+* Error handling and generics
+* Modules, crates, and package management
+* Concurrency and asynchronous programming
+* Building command-line applications and projects
+* Best practices for writing safe and efficient Rust code
+
+In addition to Rust development, this repository documents my learning of Git and GitHub workflows, including:
+
+* Creating and managing branches
+* Making commits with meaningful messages
+* Creating and reviewing Pull Requests (PRs)
+* Collaborating through version control best practices
+
+The objective is to build a strong foundation in Rust while following professional software development workflows used in real-world projects.
+
 
 ## Author
 
