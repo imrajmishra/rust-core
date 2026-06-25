@@ -1,58 +1,15 @@
 # Rust Core 🦀
 
-A structured repository documenting my journey of learning Rust through examples, exercises, and projects.
+This repository was created to document my journey of learning Rust, starting from the fundamentals and progressing toward advanced concepts through practical examples, exercises, and projects.
 
-## Repository Structure
+In addition to Rust programming, this repository is used to learn and practice Git and GitHub workflows, including:
 
-```text
-rust-core/
-├── 01_Rust_Intro/
-├── 02_DataTypes/
-├── 03_Control_Flow/
-├── 04_Ownership/
-├── 05_Error_Handling/
-├── 06_Module/
-├── 07_Generic_type_&_Traits/
-├── 08_Async_&_Await/
-├── 09_Applications/
-├── .gitignore
-└── README.md
-```
+* Creating and managing branches
+* Working with feature branches
+* Creating and reviewing Pull Requests (PRs)
+* Merging changes into the main codebase
+* Following version control best practices
 
-## Progress
+All learning materials, examples, and projects are maintained in the **master branch**. If you are exploring this repository, please switch to the **master** branch to access the latest content and progress.
 
-### Fundamentals
-
-* [x] Rust Introduction
-* [x] Data Types
-* [x] Control Flow
-* [ ] Ownership
-* [ ] Error Handling
-* [ ] Modules
-* [ ] Generics
-* [ ] Traits
-* [ ] Async & Await
-* [ ] Applications
-
-## Running Examples
-
-Navigate to a lesson directory and run:
-
-```bash
-cargo run
-```
-
-Build a project:
-
-```bash
-cargo build
-```
-
-## Goal
-
-The goal of this repository is to learn Rust from fundamentals to advanced concepts through hands-on examples and projects.
-
-## Author
-
-**Raj Mishra**
-BCA Student | Rust Learner
+The goal of this repository is not only to master Rust but also to gain hands-on experience with professional software development workflows commonly used in collaborative and open-source projects.
